@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🐧 **Linux Enthusiast** — Termux, Kali, CLI lover  
+- 🐧 **Linux Enthusiast** — Linux, Kali, CLI lover  
 - 🤖 **Automation Dev** — WA/Tele bots, scripts, exploits  
 - 💡 **Learner** — Always exploring new stacks & tech  
 - 🎯 **Goal** — Contribute open-source hacker tools  
@@ -44,7 +44,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🤖 **[NaldyXploitBOT](https://github.com/MamatHaxor/NaldyXploitBOT)** — WhatsApp/Termux automation & bot toolkit  
+- 🤖 **[DangerZBOT](https://github.com/MamatHaxor/NaldyXploitBOT)** — WhatsApp/Termux automation & bot toolkit  
 - ⚡ **[Termux-AutoCommit](https://github.com/MamatHaxor/Termux-AutoCommit)** — Auto commit script (Termux → GitHub)  
 - 🔮 **[NeonTool](https://github.com/MamatHaxor/NeonTool)** — CLI utility scaffold (demo/idea)  
 
