@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Mamat Haxor's GitHub ✨</h1>
+<h1 align="center">✨  Mamat Haxor's GitHub ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=FF2ECC&center=true&vCenter=true&lines=Full-Stack+Engineer;Linux+Enthusiast;Reverse+Engineering+Expert;Open+Source+Lover;Building+10+Trillion+Dollar+Projects" />
@@ -64,4 +64,4 @@
 
 ---
 
-<h3 align="center">✨ “Turning Ideas into Luxury Code worth 10 Trillion Dollars” ✨</h3>
+
